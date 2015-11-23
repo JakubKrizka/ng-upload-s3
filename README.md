@@ -35,3 +35,7 @@ Main project is [here](https://github.com/asafdav/ng-s3upload), this is edited v
 
 ## Bower coming soon ;)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jakubkrizka/ng-upload-s3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
